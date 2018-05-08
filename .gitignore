@@ -1,0 +1,12 @@
+*.b#?
+*.s#?
+*.l#?
+firmware/STM8S_SPL/*
+firmware/build/*
+firmware/Drivers/*
+*.ps
+datasheet/*
+tmp/*
+*.odt#
+*.ods#
+build/*
